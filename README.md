@@ -214,7 +214,7 @@ http://localhost:3000
 
 **Divith Raju |  AI Engineer**
 
-🎓 B.Tech – Artificial Intelligence & Data Science 
+🎓 B.Tech 
 📍 Bangalore, India
 
 🔗 GitHub: https://github.com/divithraju
